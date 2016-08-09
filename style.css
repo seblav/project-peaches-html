@@ -1,0 +1,21 @@
+body {
+  background-color: #F7FAAA;
+}
+
+h1 {
+  text-align: center;
+  color: orange;
+}
+
+th {
+  background-color: orange;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border:  1px solid black;
+}
